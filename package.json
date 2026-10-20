@@ -4,7 +4,9 @@
   "description": "Este repositório contém uma suíte de testes automatizados End-to-End (E2E) desenvolvida com **Cypress** e **JavaScript**, focada na validação dos fluxos críticos da aplicação de e-commerce [SauceDemo](https://www.saucedemo.com/).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
   },
   "repository": {
     "type": "git",
