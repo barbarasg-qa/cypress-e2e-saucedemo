@@ -34,4 +34,4 @@ Este repositório contém uma suíte de testes automatizados End-to-End (E2E) de
 
 1. **Clonar o repositório:**
    ```bash
-   git clone [https://github.com/barbarasg-qa/Cypress-E2E-SauceDemo.git](https://github.com/barbarasg-qa/Cypress-E2E-SauceDemo.git)
+ git clone https://github.com/barbarasg-qa/Cypress-E2E-SauceDemo.git
