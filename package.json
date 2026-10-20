@@ -1,0 +1,24 @@
+{
+  "name": "cypress-e2e-saucedemo",
+  "version": "1.0.0",
+  "description": "Este repositório contém uma suíte de testes automatizados End-to-End (E2E) desenvolvida com **Cypress** e **JavaScript**, focada na validação dos fluxos críticos da aplicação de e-commerce [SauceDemo](https://www.saucedemo.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbarasg-qa/Cypress-E2E-SauceDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/barbarasg-qa/Cypress-E2E-SauceDemo/issues"
+  },
+  "homepage": "https://github.com/barbarasg-qa/Cypress-E2E-SauceDemo#readme",
+  "devDependencies": {
+    "cypress": "^16.2.0"
+  }
+}
