@@ -1,10 +1,10 @@
-# 🧪 Automação E2E com Cypress — SauceDemo
+# Automação E2E com Cypress — SauceDemo
 
 Este repositório contém uma suíte de testes automatizados End-to-End (E2E) desenvolvida com **Cypress** e **JavaScript**, focada na validação dos fluxos críticos da aplicação de e-commerce [SauceDemo](https://www.saucedemo.com/).
 
 ---
 
-## 📌 Funcionalidades Testadas
+## Funcionalidades Testadas
 
 - **Autenticação:**
   - Login com credenciais válidas.
@@ -16,7 +16,7 @@ Este repositório contém uma suíte de testes automatizados End-to-End (E2E) de
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Cypress** — Framework de testes automatizados.
 - **JavaScript** — Linguagem de programação.
@@ -24,7 +24,7 @@ Este repositório contém uma suíte de testes automatizados End-to-End (E2E) de
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### Pré-requisitos
 - **Node.js** instalado na máquina.
